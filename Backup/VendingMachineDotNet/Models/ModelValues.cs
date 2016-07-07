@@ -14,9 +14,6 @@
 
 		public static string CANDY_TYPE="CANDY";
 		public static int CANDY_PRICE = 65;
-        public static string CHIPS_TYPE = "CHIPS";
-        public static int CHIPS_PRICE=50;
-        public static int COLA_PRICE=100;
-        public static string COLA_TYPE="COLA";
-    }
+
+	}
 }
