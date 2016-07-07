@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="VendingMachineDotNet/VendingMachineDotNet.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachineDotNet.Tests/Models/NickelTest.cs">
+    <Files>
+      <File FileName="VendingMachineDotNet/Models/Penny.cs" Line="24" Column="35" />
+      <File FileName="VendingMachineDotNet/Models/Nickel.cs" Line="24" Column="29" />
+      <File FileName="VendingMachineDotNet.Tests/Models/NickelTest.cs" Line="32" Column="63" />
+      <File FileName="VendingMachineDotNet/Models/ModelValues.cs" Line="3" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VendingMachineDotNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
