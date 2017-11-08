@@ -1,16 +1,18 @@
-﻿<Properties StartupItem="VendingMachineDotNet/VendingMachineDotNet.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachineDotNet.Tests/Models/NickelTest.cs">
+﻿<Properties StartupConfiguration="{FFE2307D-469D-44F6-9BA6-C05AAC16D823}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachine.Tester/Services/ProductManagerTests.cs">
     <Files>
-      <File FileName="VendingMachineDotNet/Models/Penny.cs" Line="24" Column="35" />
-      <File FileName="VendingMachineDotNet/Models/Nickel.cs" Line="24" Column="29" />
-      <File FileName="VendingMachineDotNet.Tests/Models/NickelTest.cs" Line="32" Column="63" />
-      <File FileName="VendingMachineDotNet/Models/ModelValues.cs" Line="3" Column="16" />
+      <File FileName="VendingMachineCore/Services/ProductManager.cs" Line="2" Column="1" />
+      <File FileName="VendingMachine.Tester/Services/ProductManagerTests.cs" Line="28" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.VendingMachineDotNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VendingMachineCore PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="54" column="17" />
+      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="53" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

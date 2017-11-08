@@ -1,13 +1,14 @@
 ﻿using NUnit.Framework;
+using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
-using VendingMachineDotNet;
-using VendingMachineDotNet.Controllers;
+using VendingMachine;
+using VendingMachine.Controllers;
 
-namespace VendingMachineDotNet.Tests
+namespace VendingMachine.Tests
 {
 	[TestFixture]
 	public class HomeControllerTest

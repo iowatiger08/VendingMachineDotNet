@@ -1,0 +1,4 @@
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csprojResolveAssemblyReference.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csproj.CoreCompileInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfoInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfo.cs
