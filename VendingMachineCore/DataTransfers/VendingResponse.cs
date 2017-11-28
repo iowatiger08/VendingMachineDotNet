@@ -2,6 +2,6 @@
 {
     public class VendingResponse
     {
-        int TenderValue { get; set; }
+        public int TenderValue { get; set; }
     }
 }

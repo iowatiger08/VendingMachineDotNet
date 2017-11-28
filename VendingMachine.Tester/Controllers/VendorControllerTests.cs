@@ -1,6 +1,7 @@
 ﻿using System;
 using VendingMachine.DataTransfers;
 using VendingMachine.Services;
+using VendingMachine;
 
 using NUnit.Framework;
 using Moq;

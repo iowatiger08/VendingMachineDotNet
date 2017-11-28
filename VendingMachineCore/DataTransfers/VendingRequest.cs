@@ -6,8 +6,8 @@ namespace VendingMachine.DataTransfers
 {
     public class VendingRequest
     {
-        bool Empty { get; set; }
-        List<ICoin> BagOfCoins { get; set; }
-        IProduct Selection { get; set; }
+        public bool Empty { get; set; }
+        public List<ICoin> BagOfCoins { get; set; }
+        public IProduct Selection { get; set; }
     }
 }

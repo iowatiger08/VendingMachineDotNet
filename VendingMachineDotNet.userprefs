@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{FFE2307D-469D-44F6-9BA6-C05AAC16D823}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachine.Tester/Controllers/VendorControllerTests.cs">
     <Files>
-      <File FileName="VendingMachineCore/Services/ProductManager.cs" Line="13" Column="62" />
       <File FileName="VendingMachine.Tester/Services/ProductManagerTests.cs" Line="28" Column="10" />
-      <File FileName="VendingMachineCore/Models/IProductResult.cs" Line="7" Column="26" />
-      <File FileName="VendingMachineCore/Models/NotEnoughToPurchaseResult.cs" Line="7" Column="42" />
-      <File FileName="VendingMachineCore/Models/AvailableResult.cs" Line="15" Column="56" />
-      <File FileName="VendingMachine.Tester/Controllers/VendorControllerTests.cs" Line="36" Column="17" />
+      <File FileName="VendingMachine.Tester/Controllers/VendorControllerTests.cs" Line="39" Column="35" />
+      <File FileName="VendingMachineCore/DataTransfers/VendingRequest.cs" Line="11" Column="19" />
+      <File FileName="VendingMachineCore/Models/IProduct.cs" Line="4" Column="9" />
+      <File FileName="VendingMachineCore/DataTransfers/VendingResponse.cs" Line="5" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.VendingMachineCore PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="54" column="17" />
-      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="53" column="1" />
+      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="55" column="17" />
+      <Breakpoint file="/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/Controllers/VendorControllerTests.cs" relfile="VendingMachine.Tester/Controllers/VendorControllerTests.cs" line="54" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

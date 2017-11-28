@@ -1,7 +1,7 @@
 ﻿using System;
 namespace VendingMachine
 {
-	interface IProduct
+	public interface IProduct
 	{
 		int price();
 		String type();

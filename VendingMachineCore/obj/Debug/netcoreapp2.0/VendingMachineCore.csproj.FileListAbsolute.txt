@@ -8,3 +8,4 @@
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.AssemblyInfo.cs
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.pdb
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.csprojResolveAssemblyReference.cache
