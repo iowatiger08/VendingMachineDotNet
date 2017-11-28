@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{FFE2307D-469D-44F6-9BA6-C05AAC16D823}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachine.Tester/Services/ProductManagerTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachine.Tester/Controllers/VendorControllerTests.cs">
     <Files>
-      <File FileName="VendingMachineCore/Services/ProductManager.cs" Line="2" Column="1" />
-      <File FileName="VendingMachine.Tester/Services/ProductManagerTests.cs" Line="28" Column="64" />
+      <File FileName="VendingMachineCore/Services/ProductManager.cs" Line="13" Column="62" />
+      <File FileName="VendingMachine.Tester/Services/ProductManagerTests.cs" Line="28" Column="10" />
+      <File FileName="VendingMachineCore/Models/IProductResult.cs" Line="7" Column="26" />
+      <File FileName="VendingMachineCore/Models/NotEnoughToPurchaseResult.cs" Line="7" Column="42" />
+      <File FileName="VendingMachineCore/Models/AvailableResult.cs" Line="15" Column="56" />
+      <File FileName="VendingMachine.Tester/Controllers/VendorControllerTests.cs" Line="36" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
