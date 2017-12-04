@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{FFE2307D-469D-44F6-9BA6-C05AAC16D823}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachine.Tester/Models/QuarterTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachineCore/Models/ModelValues.cs">
     <Files>
-      <File FileName="VendingMachine.Tester/Models/QuarterTest.cs" Line="20" Column="65" />
+      <File FileName="VendingMachine.Tester/Controllers/VendorControllerTests.cs" Line="338" Column="20" />
+      <File FileName="VendingMachineCore/DataTransfers/VendingRequest.cs" Line="7" Column="1" />
+      <File FileName="VendingMachineCore/DataTransfers/VendingResponse.cs" Line="5" Column="1" />
+      <File FileName="VendingMachineCore/Models/AvailableResult.cs" Line="1" Column="1" />
+      <File FileName="VendingMachineCore/Models/IProductResult.cs" Line="8" Column="18" />
+      <File FileName="VendingMachineCore/Models/ModelValues.cs" Line="32" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
