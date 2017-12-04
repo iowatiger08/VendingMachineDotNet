@@ -1,7 +1,3 @@
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csprojResolveAssemblyReference.cache
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csproj.CoreCompileInputs.cache
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfoInputs.cache
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfo.cs
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
@@ -12,5 +8,9 @@
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/VendingMachineCore.Tester.pdb
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/VendingMachineCore.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/bin/Debug/netcoreapp2.0/VendingMachineCore.pdb
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csprojResolveAssemblyReference.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.csproj.CoreCompileInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfoInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.AssemblyInfo.cs
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj/Debug/netcoreapp2.0/VendingMachineCore.Tester.pdb
