@@ -3,10 +3,10 @@ namespace VendingMachine
 {
 	public interface ICoin
 	{
-		long weight();
-		long size();
-		int value();
-		string type();
+		long Weight();
+		long Size();
+		int Value();
+		string Type();
 	}
 }
 

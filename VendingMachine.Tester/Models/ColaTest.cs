@@ -16,13 +16,13 @@ namespace VendingMachine
 		[Test]
 		public void TestCandyPrice()
 		{
-			Assert.That (cola.price(), Is.EqualTo(ModelValues.COLA_PRICE));
+			Assert.That (cola.Price(), Is.EqualTo(ModelValues.COLA_PRICE));
 		}
 
 		[Test]
 		public void TestCandyType()
 		{
-			Assert.That(cola.type(), Is.EqualTo(ModelValues.COLA_TYPE));
+			Assert.That(cola.Type(), Is.EqualTo(ModelValues.COLA_TYPE));
 		}
 
 	}

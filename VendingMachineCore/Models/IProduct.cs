@@ -3,8 +3,8 @@ namespace VendingMachine
 {
 	public interface IProduct
 	{
-		int price();
-		String type();
+		int Price();
+	    String Type();
 	}
 }
 

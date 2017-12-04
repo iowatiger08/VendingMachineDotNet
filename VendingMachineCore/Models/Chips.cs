@@ -1,16 +1,20 @@
-﻿namespace VendingMachine
+﻿using VendingMachine.Models;
+
+namespace VendingMachine
 {
     public class Chips : IProduct
     {
-        public int price()
+        public string Type()
+        {
+            return Global.CHIPS_TYPE;
+        }
+
+        public int Price()
         {
             return ModelValues.CHIPS_PRICE;
         }
 
-        public string type()
-        {
-            return ModelValues.CHIPS_TYPE;
-        }
+
     
     }
 }

@@ -17,25 +17,25 @@ namespace VendingMachine
 		[Test]
 		public void testType()
 		{
-			Assert.That(dime.type, Is.EqualTo("DIME"));
+            Assert.That(dime.Type(), Is.EqualTo(ModelValues.DIME_TYPE));
 		}
 
 		[Test]
 		public void testSize()
 		{
-			Assert.That(dime.size, Is.EqualTo(ModelValues.DIME_SIZE));
+			Assert.That(dime.Size, Is.EqualTo(ModelValues.DIME_SIZE));
 		}
 
 		[Test]
 		public void testWeight()
 		{
-			Assert.That(dime.weight, Is.EqualTo(ModelValues.DIME_WEIGHT));
+            Assert.That(dime.Weight(), Is.EqualTo(ModelValues.DIME_WEIGHT));
 		}
 
 		[Test]
 		public void testValue()
 		{
-			Assert.That(dime.value, Is.EqualTo(10));
+            Assert.That(dime.Value(), Is.EqualTo(10));
 		}
 	}
 }

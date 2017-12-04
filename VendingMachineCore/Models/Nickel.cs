@@ -4,22 +4,22 @@ namespace VendingMachine
 {
 	public class Nickel : ICoin
 	{
-		public long size()
+		public long Size()
 		{
 			return ModelValues.NICKEL_SIZE;
 		}
 
-		public string type()
+		public string Type()
 		{
-			return "NICKEL";
+            return ModelValues.NICKEL_TYPE;
 		}
 
-		public int value()
+		public int Value()
 		{
 			return 5;
 		}
 
-		public long weight()
+		public long Weight()
 		{
 			return ModelValues.NICKEL_WEIGHT;
 		}

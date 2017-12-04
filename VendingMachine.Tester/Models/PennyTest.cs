@@ -17,25 +17,25 @@ namespace VendingMachine
 		[Test]
 		public void testPennyType()
 		{
-			Assert.That(penny.type, Is.EqualTo("PENNY"));
+            Assert.That(penny.Type(), Is.EqualTo("PENNY"));
 		}
 
 		[Test]
 		public void testPennySize()
 		{
-			Assert.That(penny.size, Is.EqualTo(ModelValues.PENNY_SIZE));
+            Assert.That(penny.Size(), Is.EqualTo(ModelValues.PENNY_SIZE));
 		}
 
 		[Test]
 		public void testPennyWeight()
 		{
-			Assert.That(penny.weight, Is.EqualTo(ModelValues.PENNY_WEIGHT));
+            Assert.That(penny.Weight(), Is.EqualTo(ModelValues.PENNY_WEIGHT));
 		}
 
 		[Test]
 		public void testPennyValue()
 		{
-			Assert.That(penny.value, Is.EqualTo(1));
+			Assert.That(penny.Value, Is.EqualTo(1));
 		}
 	}
 }

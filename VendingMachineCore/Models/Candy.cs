@@ -1,15 +1,17 @@
 ﻿using System;
+using VendingMachine.Models;
 
 namespace VendingMachine
 {
 	public class Candy : IProduct
 	{
-		public int price()
+
+		public int Price()
 		{
 			return ModelValues.CANDY_PRICE;
 		}
 
-		public string type()
+        public string Type()
 		{
 			return ModelValues.CANDY_TYPE;
 		}

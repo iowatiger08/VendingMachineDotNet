@@ -8,22 +8,22 @@ namespace VendingMachine
 		{
 		}
 
-		public long size()
+		public long Size()
 		{
 			return ModelValues.DIME_SIZE;
 		}
 
-		public string type()
+		public string Type()
 		{
-			return "DIME";
+            return ModelValues.DIME_TYPE;
 		}
 
-		public int value()
+		public int Value()
 		{
 			return 10;
 		}
 
-		public long weight()
+		public long Weight()
 		{
 			return ModelValues.DIME_WEIGHT;
 		}

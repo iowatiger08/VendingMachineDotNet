@@ -7,8 +7,8 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
     <Folder Include="Models\" />
-    <Folder Include="DataTransfers\" />
     <Folder Include="Services\" />
+    <Folder Include="DataTransfers\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,4 +19,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Models\Globals.cs" />
+  </ItemGroup>
 </Project>

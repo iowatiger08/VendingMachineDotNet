@@ -17,25 +17,25 @@ namespace VendingMachine
 		[Test]
 		public void testType()
 		{
-			Assert.That(nickel.type, Is.EqualTo("NICKEL"));
+            Assert.That(nickel.Type, Is.EqualTo(ModelValues.NICKEL_TYPE));
 		}
 
 		[Test]
 		public void testSize()
 		{
-			Assert.That(nickel.size, Is.EqualTo(ModelValues.NICKEL_SIZE));
+			Assert.That(nickel.Size, Is.EqualTo(ModelValues.NICKEL_SIZE));
 		}
 
 		[Test]
 		public void testWeight()
 		{
-			Assert.That(nickel.weight, Is.EqualTo(ModelValues.NICKEL_WEIGHT));
+			Assert.That(nickel.Weight, Is.EqualTo(ModelValues.NICKEL_WEIGHT));
 		}
 
 		[Test]
 		public void testValue()
 		{
-			Assert.That(nickel.value, Is.EqualTo(5));
+			Assert.That(nickel.Value, Is.EqualTo(5));
 		}
 	}
 }

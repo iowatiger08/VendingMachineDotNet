@@ -4,22 +4,22 @@ namespace VendingMachine
 {
 	public class Penny : ICoin
 	{
-		public long size()
+		public long Size()
 		{
 			return ModelValues.PENNY_SIZE;
 		}
 
-		public string type()
+		public string Type()
 		{
 			return "PENNY";
 		}
 
-		public int value()
+		public int Value()
 		{
 			return 1;
 		}
 
-		public long weight()
+		public long Weight()
 		{
 			return ModelValues.PENNY_WEIGHT;
 		}

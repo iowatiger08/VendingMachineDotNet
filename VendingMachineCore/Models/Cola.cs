@@ -1,17 +1,21 @@
 ﻿using System;
+using VendingMachine.Models;
 
 namespace VendingMachine
 {
     public class Cola : IProduct
     {
-        public int price()
+        public string Type()
+        {
+            return Global.COLA_TYPE;
+        }
+
+        public int Price()
         {
             return ModelValues.COLA_PRICE;
         }
 
-        public string type()
-        {
-            return ModelValues.COLA_TYPE;
-        }
+
+
     }
 }

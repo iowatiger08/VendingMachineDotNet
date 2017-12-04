@@ -1,11 +1,11 @@
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.csprojResolveAssemblyReference.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.csproj.CoreCompileInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.AssemblyInfoInputs.cache
+/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.AssemblyInfo.cs
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/bin/Debug/netcoreapp2.0/VendingMachineCore.deps.json
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/bin/Debug/netcoreapp2.0/VendingMachineCore.runtimeconfig.json
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/bin/Debug/netcoreapp2.0/VendingMachineCore.runtimeconfig.dev.json
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/bin/Debug/netcoreapp2.0/VendingMachineCore.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/bin/Debug/netcoreapp2.0/VendingMachineCore.pdb
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.csproj.CoreCompileInputs.cache
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.AssemblyInfoInputs.cache
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.AssemblyInfo.cs
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.dll
 /Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.pdb
-/Users/tdillon/projects/VendingMachineDotNet/VendingMachineCore/obj/Debug/netcoreapp2.0/VendingMachineCore.csprojResolveAssemblyReference.cache

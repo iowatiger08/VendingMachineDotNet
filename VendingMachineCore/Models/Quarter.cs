@@ -4,22 +4,22 @@ namespace VendingMachine
 {
 	public class Quarter : ICoin
 	{
-		public long size()
+		public long Size()
 		{
 			return ModelValues.QUARTER_SIZE;
 		}
 
-		public string type()
+		public string Type()
 		{
-			return "QUARTER";
+            return ModelValues.QUARTER_TYPE;
 		}
 
-		public int value()
+		public int Value()
 		{
 			return 25;
 		}
 
-		public long weight()
+		public long Weight()
 		{
 			return ModelValues.QUARTER_WEIGHT;
 		}
