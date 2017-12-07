@@ -13647,7 +13647,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/tdillon/.nuget/packages/": {}
+    "/Users/tdillon/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -13658,6 +13659,9 @@
       "packagesPath": "/Users/tdillon/.nuget/packages/",
       "outputPath": "/Users/tdillon/projects/VendingMachineDotNet/VendingMachine.Tester/obj",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/tdillon/.config/NuGet/NuGet.Config"
       ],
